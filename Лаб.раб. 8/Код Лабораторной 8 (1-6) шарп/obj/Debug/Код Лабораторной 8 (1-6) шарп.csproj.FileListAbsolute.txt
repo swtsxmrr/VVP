@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\Код Лабораторной 8 (1-6) шарп\obj\Debug\Код Лабораторной 8 (1-6) шарп.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Код Лабораторной 8 (1-6) шарп\obj\Debug\Код Лабораторной 8 (1-6) шарп.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Код Лабораторной 8 (1-6) шарп\bin\Debug\Код Лабораторной 8 (1-6) шарп.exe.config
+C:\Users\Home\source\repos\Код Лабораторной 8 (1-6) шарп\bin\Debug\Код Лабораторной 8 (1-6) шарп.exe
+C:\Users\Home\source\repos\Код Лабораторной 8 (1-6) шарп\bin\Debug\Код Лабораторной 8 (1-6) шарп.pdb
+C:\Users\Home\source\repos\Код Лабораторной 8 (1-6) шарп\obj\Debug\Код Лабораторной 8 (1-6) шарп.exe
+C:\Users\Home\source\repos\Код Лабораторной 8 (1-6) шарп\obj\Debug\Код Лабораторной 8 (1-6) шарп.pdb
+C:\Лабы C#\Лаб.раб. 8\Код Лабораторной 8 (1-6) шарп\bin\Debug\Код Лабораторной 8 (1-6) шарп.exe.config
+C:\Лабы C#\Лаб.раб. 8\Код Лабораторной 8 (1-6) шарп\bin\Debug\Код Лабораторной 8 (1-6) шарп.exe
+C:\Лабы C#\Лаб.раб. 8\Код Лабораторной 8 (1-6) шарп\bin\Debug\Код Лабораторной 8 (1-6) шарп.pdb
+C:\Лабы C#\Лаб.раб. 8\Код Лабораторной 8 (1-6) шарп\obj\Debug\Код Лабораторной 8 (1-6) шарп.csprojAssemblyReference.cache
+C:\Лабы C#\Лаб.раб. 8\Код Лабораторной 8 (1-6) шарп\obj\Debug\Код Лабораторной 8 (1-6) шарп.csproj.CoreCompileInputs.cache
+C:\Лабы C#\Лаб.раб. 8\Код Лабораторной 8 (1-6) шарп\obj\Debug\Код Лабораторной 8 (1-6) шарп.exe
+C:\Лабы C#\Лаб.раб. 8\Код Лабораторной 8 (1-6) шарп\obj\Debug\Код Лабораторной 8 (1-6) шарп.pdb
