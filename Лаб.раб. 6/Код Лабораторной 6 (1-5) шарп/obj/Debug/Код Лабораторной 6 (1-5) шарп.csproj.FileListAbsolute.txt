@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\Код Лабораторной 6 (1-5) шарп\bin\Debug\Код Лабораторной 6 (1-5) шарп.exe.config
+C:\Users\Home\source\repos\Код Лабораторной 6 (1-5) шарп\bin\Debug\Код Лабораторной 6 (1-5) шарп.exe
+C:\Users\Home\source\repos\Код Лабораторной 6 (1-5) шарп\bin\Debug\Код Лабораторной 6 (1-5) шарп.pdb
+C:\Users\Home\source\repos\Код Лабораторной 6 (1-5) шарп\obj\Debug\Код Лабораторной 6 (1-5) шарп.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Код Лабораторной 6 (1-5) шарп\obj\Debug\Код Лабораторной 6 (1-5) шарп.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Код Лабораторной 6 (1-5) шарп\obj\Debug\Код Лабораторной 6 (1-5) шарп.exe
+C:\Users\Home\source\repos\Код Лабораторной 6 (1-5) шарп\obj\Debug\Код Лабораторной 6 (1-5) шарп.pdb
+C:\Лабы C#\Лаб.раб. 6\Код Лабораторной 6 (1-5) шарп\bin\Debug\Код Лабораторной 6 (1-5) шарп.exe.config
+C:\Лабы C#\Лаб.раб. 6\Код Лабораторной 6 (1-5) шарп\bin\Debug\Код Лабораторной 6 (1-5) шарп.exe
+C:\Лабы C#\Лаб.раб. 6\Код Лабораторной 6 (1-5) шарп\bin\Debug\Код Лабораторной 6 (1-5) шарп.pdb
+C:\Лабы C#\Лаб.раб. 6\Код Лабораторной 6 (1-5) шарп\obj\Debug\Код Лабораторной 6 (1-5) шарп.csprojAssemblyReference.cache
+C:\Лабы C#\Лаб.раб. 6\Код Лабораторной 6 (1-5) шарп\obj\Debug\Код Лабораторной 6 (1-5) шарп.csproj.CoreCompileInputs.cache
+C:\Лабы C#\Лаб.раб. 6\Код Лабораторной 6 (1-5) шарп\obj\Debug\Код Лабораторной 6 (1-5) шарп.exe
+C:\Лабы C#\Лаб.раб. 6\Код Лабораторной 6 (1-5) шарп\obj\Debug\Код Лабораторной 6 (1-5) шарп.pdb
