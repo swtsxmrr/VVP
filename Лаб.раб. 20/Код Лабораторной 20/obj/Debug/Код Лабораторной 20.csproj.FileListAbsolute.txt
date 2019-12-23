@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\Код Лабораторной 20\bin\Debug\Код Лабораторной 20.exe.config
+C:\Users\Home\source\repos\Код Лабораторной 20\bin\Debug\Код Лабораторной 20.exe
+C:\Users\Home\source\repos\Код Лабораторной 20\bin\Debug\Код Лабораторной 20.pdb
+C:\Users\Home\source\repos\Код Лабораторной 20\obj\Debug\Код Лабораторной 20.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Код Лабораторной 20\obj\Debug\Код Лабораторной 20.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Код Лабораторной 20\obj\Debug\Код Лабораторной 20.exe
+C:\Users\Home\source\repos\Код Лабораторной 20\obj\Debug\Код Лабораторной 20.pdb
+C:\Лабы C#\Лаб.раб. 20\Код Лабораторной 20\obj\Debug\Код Лабораторной 20.csprojAssemblyReference.cache
+C:\Лабы C#\Лаб.раб. 20\Код Лабораторной 20\obj\Debug\Код Лабораторной 20.csproj.CoreCompileInputs.cache
+C:\Лабы C#\Лаб.раб. 20\Код Лабораторной 20\obj\Debug\Код Лабораторной 20.exe
+C:\Лабы C#\Лаб.раб. 20\Код Лабораторной 20\obj\Debug\Код Лабораторной 20.pdb
+C:\Лабы C#\Лаб.раб. 20\Код Лабораторной 20\bin\Debug\Код Лабораторной 20.exe.config
+C:\Лабы C#\Лаб.раб. 20\Код Лабораторной 20\bin\Debug\Код Лабораторной 20.exe
+C:\Лабы C#\Лаб.раб. 20\Код Лабораторной 20\bin\Debug\Код Лабораторной 20.pdb

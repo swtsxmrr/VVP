@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\Код Лабораторной 18\bin\Debug\Код Лабораторной 18.exe.config
+C:\Users\Home\source\repos\Код Лабораторной 18\bin\Debug\Код Лабораторной 18.exe
+C:\Users\Home\source\repos\Код Лабораторной 18\bin\Debug\Код Лабораторной 18.pdb
+C:\Users\Home\source\repos\Код Лабораторной 18\obj\Debug\Код Лабораторной 18.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Код Лабораторной 18\obj\Debug\Код Лабораторной 18.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Код Лабораторной 18\obj\Debug\Код Лабораторной 18.exe
+C:\Users\Home\source\repos\Код Лабораторной 18\obj\Debug\Код Лабораторной 18.pdb
+C:\Лабы C#\Лаб.раб. 18\Код Лабораторной 18\bin\Debug\Код Лабораторной 18.exe.config
+C:\Лабы C#\Лаб.раб. 18\Код Лабораторной 18\bin\Debug\Код Лабораторной 18.exe
+C:\Лабы C#\Лаб.раб. 18\Код Лабораторной 18\bin\Debug\Код Лабораторной 18.pdb
+C:\Лабы C#\Лаб.раб. 18\Код Лабораторной 18\obj\Debug\Код Лабораторной 18.csprojAssemblyReference.cache
+C:\Лабы C#\Лаб.раб. 18\Код Лабораторной 18\obj\Debug\Код Лабораторной 18.csproj.CoreCompileInputs.cache
+C:\Лабы C#\Лаб.раб. 18\Код Лабораторной 18\obj\Debug\Код Лабораторной 18.exe
+C:\Лабы C#\Лаб.раб. 18\Код Лабораторной 18\obj\Debug\Код Лабораторной 18.pdb

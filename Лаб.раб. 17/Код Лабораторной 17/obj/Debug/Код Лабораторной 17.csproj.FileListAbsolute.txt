@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\Код Лабораторной 17\bin\Debug\Код Лабораторной 17.exe.config
+C:\Users\Home\source\repos\Код Лабораторной 17\bin\Debug\Код Лабораторной 17.exe
+C:\Users\Home\source\repos\Код Лабораторной 17\bin\Debug\Код Лабораторной 17.pdb
+C:\Users\Home\source\repos\Код Лабораторной 17\obj\Debug\Код Лабораторной 17.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Код Лабораторной 17\obj\Debug\Код Лабораторной 17.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Код Лабораторной 17\obj\Debug\Код Лабораторной 17.exe
+C:\Users\Home\source\repos\Код Лабораторной 17\obj\Debug\Код Лабораторной 17.pdb
+C:\Лабы C#\Лаб.раб. 17\Код Лабораторной 17\bin\Debug\Код Лабораторной 17.exe.config
+C:\Лабы C#\Лаб.раб. 17\Код Лабораторной 17\bin\Debug\Код Лабораторной 17.exe
+C:\Лабы C#\Лаб.раб. 17\Код Лабораторной 17\bin\Debug\Код Лабораторной 17.pdb
+C:\Лабы C#\Лаб.раб. 17\Код Лабораторной 17\obj\Debug\Код Лабораторной 17.csprojAssemblyReference.cache
+C:\Лабы C#\Лаб.раб. 17\Код Лабораторной 17\obj\Debug\Код Лабораторной 17.csproj.CoreCompileInputs.cache
+C:\Лабы C#\Лаб.раб. 17\Код Лабораторной 17\obj\Debug\Код Лабораторной 17.exe
+C:\Лабы C#\Лаб.раб. 17\Код Лабораторной 17\obj\Debug\Код Лабораторной 17.pdb
