@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\Код Лабораторной 22\bin\Debug\Код Лабораторной 22.exe.config
+C:\Users\Home\source\repos\Код Лабораторной 22\bin\Debug\Код Лабораторной 22.exe
+C:\Users\Home\source\repos\Код Лабораторной 22\bin\Debug\Код Лабораторной 22.pdb
+C:\Users\Home\source\repos\Код Лабораторной 22\obj\Debug\Код Лабораторной 22.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Код Лабораторной 22\obj\Debug\Код Лабораторной 22.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Код Лабораторной 22\obj\Debug\Код Лабораторной 22.exe
+C:\Users\Home\source\repos\Код Лабораторной 22\obj\Debug\Код Лабораторной 22.pdb
+C:\Лабы C#\Лаб.раб. 22\Код Лабораторной 22\bin\Debug\Код Лабораторной 22.exe.config
+C:\Лабы C#\Лаб.раб. 22\Код Лабораторной 22\bin\Debug\Код Лабораторной 22.exe
+C:\Лабы C#\Лаб.раб. 22\Код Лабораторной 22\bin\Debug\Код Лабораторной 22.pdb
+C:\Лабы C#\Лаб.раб. 22\Код Лабораторной 22\obj\Debug\Код Лабораторной 22.csprojAssemblyReference.cache
+C:\Лабы C#\Лаб.раб. 22\Код Лабораторной 22\obj\Debug\Код Лабораторной 22.csproj.CoreCompileInputs.cache
+C:\Лабы C#\Лаб.раб. 22\Код Лабораторной 22\obj\Debug\Код Лабораторной 22.exe
+C:\Лабы C#\Лаб.раб. 22\Код Лабораторной 22\obj\Debug\Код Лабораторной 22.pdb

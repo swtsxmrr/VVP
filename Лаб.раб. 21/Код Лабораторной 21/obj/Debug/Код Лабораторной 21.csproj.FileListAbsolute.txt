@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\Код Лабораторной 21\bin\Debug\Код Лабораторной 21.exe.config
+C:\Users\Home\source\repos\Код Лабораторной 21\bin\Debug\Код Лабораторной 21.exe
+C:\Users\Home\source\repos\Код Лабораторной 21\bin\Debug\Код Лабораторной 21.pdb
+C:\Users\Home\source\repos\Код Лабораторной 21\obj\Debug\Код Лабораторной 21.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Код Лабораторной 21\obj\Debug\Код Лабораторной 21.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Код Лабораторной 21\obj\Debug\Код Лабораторной 21.exe
+C:\Users\Home\source\repos\Код Лабораторной 21\obj\Debug\Код Лабораторной 21.pdb
+C:\Лабы C#\Лаб.раб. 21\Код Лабораторной 21\bin\Debug\Код Лабораторной 21.exe.config
+C:\Лабы C#\Лаб.раб. 21\Код Лабораторной 21\bin\Debug\Код Лабораторной 21.exe
+C:\Лабы C#\Лаб.раб. 21\Код Лабораторной 21\bin\Debug\Код Лабораторной 21.pdb
+C:\Лабы C#\Лаб.раб. 21\Код Лабораторной 21\obj\Debug\Код Лабораторной 21.csprojAssemblyReference.cache
+C:\Лабы C#\Лаб.раб. 21\Код Лабораторной 21\obj\Debug\Код Лабораторной 21.csproj.CoreCompileInputs.cache
+C:\Лабы C#\Лаб.раб. 21\Код Лабораторной 21\obj\Debug\Код Лабораторной 21.exe
+C:\Лабы C#\Лаб.раб. 21\Код Лабораторной 21\obj\Debug\Код Лабораторной 21.pdb
